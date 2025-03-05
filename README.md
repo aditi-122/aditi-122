@@ -20,8 +20,9 @@
   <img align="left" alt="SQL" width="50px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjze2qc4Hd94HZvIRXUIsY8PRUrj6ByHZId-8362Pxm5w9gz9SzwOaFOagO8hhhmswXGzuSw87oBHhouFAHYtSUs4o4TKOshesvXCrJmBc_656epHMAQa0MNAw7tlROZkB6AhmbLUxBZds/"/>
   <img align="left" alt="git" width="50px" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253808/git-icon-icon-md.png"/>
   <img align="left" alt="Linux" width="50px" src="https://www.pngmart.com/files/22/Linux-Logo-PNG-Isolated-Photo.png"/>
+  
 
-   ### Things I love :
+ ### Things I love :
 - Web Development
 - java8(MultiThreading&LamdaExpression)
 - Backend Development ✍️
