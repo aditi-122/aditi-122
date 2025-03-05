@@ -1,3 +1,4 @@
+![DIgital gates  SVG](https://www.vivaxsolutions.com/images/7-digit-decoder.gif)
 ## Hi there 👋
 **aditi-122/aditi-122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi I'am Aditi-Pathak |👋
