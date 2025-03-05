@@ -22,7 +22,8 @@
   <img align="left" alt="Linux" width="50px" src="https://www.pngmart.com/files/22/Linux-Logo-PNG-Isolated-Photo.png"/>
   
 
- ### Things I love :
+
+ ### Things I do :
 - Web Development
 - java8(MultiThreading&LamdaExpression)
 - Backend Development ✍️
